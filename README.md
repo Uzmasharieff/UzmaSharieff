@@ -1,17 +1,25 @@
 Hi 👋, I'm Uzma Sharieff
 
 🎓 CSE (AI/ML) Engineering Student | Web Development
+
 Engineering student passionate about software development, Artificial Intelligence, Machine Learning, and building practical projects.
 
 👩‍💻 About Me
+
 🎓 Diploma graduate in Computer Science Engineering.
+
 💻 Currently pursuing B.E. in CSE (AI/ML).
+
 🌱 Learning programming, software development, and AI/ML concepts.
+
 🚀 Interested in building real-world projects and improving my coding skills.
+
 🛠️ Exploring Git, GitHub, and modern development tools.
+
 🎯 Goal: Become a skilled software engineer and build impactful technology.
 
 🛠️ Skills & Technologies
+
 Programming
  - Python
  - Java (if applicable)
